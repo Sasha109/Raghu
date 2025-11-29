@@ -18,7 +18,7 @@ const Contact = () => {
         <div className="max-w-2xl mx-auto">
           <div className="grid gap-8 md:grid-cols-3">
             <a
-              href="tel:+919370497557"
+              href="tel:+919223588466"
               className="bg-gray-50 dark:bg-gray-800 rounded-lg p-6 text-center hover:shadow-md transition-all duration-300 group transform hover:-translate-y-1"
               aria-label="Call Raghunandan"
             >
@@ -49,7 +49,7 @@ const Contact = () => {
             <a
               href="mailto:raghunandan.bayes@gmail.com"
               className="bg-gray-50 dark:bg-gray-800 rounded-lg p-6 text-center hover:shadow-md transition-all duration-300 group transform hover:-translate-y-1"
-              aria-label="Email Sayali"
+              aria-label="Email Raghunandan"
             >
               <div className="w-12 h-12 bg-blue-100 dark:bg-blue-900 rounded-lg flex items-center justify-center mx-auto mb-4 group-hover:bg-blue-200 dark:group-hover:bg-blue-800 transition-colors">
                 <svg
