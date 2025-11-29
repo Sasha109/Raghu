@@ -114,7 +114,7 @@ const About = () => {
                         {!imageError ? (
                           <img
                             src="/profile-photo.jpg"
-                            alt="Raghunandan Bayes "
+                            alt="Raghunandan Bayes"
                             className="w-full h-full object-cover rounded-full"
                             onError={() => setImageError(true)}
                           />
@@ -157,11 +157,11 @@ const About = () => {
                       Raghunandan Bayes
                     </h3>
                     <h4 className="text-lg font-semibold text-gray-800 dark:text-gray-200 mb-4">
-                      Sr. Product Manager & Strategic Leader
+                     Head of Product & Strategic Leader
                     </h4>
                     <div className="space-y-4 text-gray-700 dark:text-gray-300 leading-relaxed">
                       <p>
-                        Versatile and seasoned leader with over 8.5 years of business, product and program management experience. Functional expertise in strategy planning, new business development, tactical partnerships, operations, product & program management. Cross-industry experience in payments (issuing, acquiring, processing), e-commerce, digital payments, e-wallet, telco, graphics processing and consumer products. Well versed with Six-Sigma, ISO and TBEM methodologies. My journey spans from foundational work in telecom infrastructure to leading cutting-edge product innovation in payments, OTT streaming, and emerging technologies.
+                        Product Professional with over 16+ years of business, product and program management experience. Functional expertise in strategy planning, new business development, tactical partnerships, operations, product & program management. Cross-industry experience in payments (issuing, acquiring, processing), e-commerce, digital payments, e-wallet, telco, graphics processing and consumer products. Well versed with Six-Sigma, ISO and TBEM methodologies. My journey spans from foundational work in telecom infrastructure to leading cutting-edge product innovation in payments, OTT streaming, and emerging technologies.
                       </p>
                       <p>
                         My professional journey has been defined by delivering complex, cross-functional initiatives in fast-paced, dynamic environments. At Amazon, I drove operational excellence in the payments ecosystem, managing relationships with partners and banks to resolve payment frictions for millions of transactions. Previously at SonyLIV, I scaled OTT products across 38+ geographies and led a team of 20+ product managers through rapid growth phases.
@@ -176,7 +176,7 @@ const About = () => {
                   <div className="grid grid-cols-2 gap-4">
                     <div className="bg-white/70 dark:bg-gray-700/70 backdrop-blur-sm rounded-lg p-4 text-center border border-gray-200/50 dark:border-gray-600/50 hover:shadow-md transition-all duration-300">
                       <div className="text-2xl font-bold text-blue-600 dark:text-blue-400">
-                        8.5+
+                        16+
                       </div>
                       <div className="text-sm text-gray-600 dark:text-gray-300">
                         Years Experience
