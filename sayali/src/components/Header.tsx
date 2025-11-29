@@ -44,7 +44,7 @@ const Header = ({ activeSection }: HeaderProps) => {
                   Raghunandan Bayes
                 </span>
                 <span className="block text-xs sm:text-sm text-gray-600 dark:text-gray-300">
-                  VP &amp; Head of Product
+                  VP & Head of Product
                 </span>
               </div>
             </button>
